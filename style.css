@@ -1,3 +1,8 @@
+body {
+    background-color: rgb(255, 249, 170);
+
+}
+
 .betuk {
     font-size: large;
 }
@@ -28,6 +33,19 @@ table {
     border-collapse: collapse;
 }
 
-td, th {
+th {
     border: 1px solid black;
+}
+
+td {
+    text-align: center;
+}
+
+#logo {
+    width: 100px;
+    float: right;
+}
+
+#ala_kep {
+    width: 100%;
 }
